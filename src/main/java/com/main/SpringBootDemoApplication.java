@@ -8,6 +8,10 @@ public class SpringBootDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDemoApplication.class, args);
+		
+			// Task 2
+		System.out.println("modification added");
+		
 	}
 
 }
