@@ -11,6 +11,9 @@ public class SpringBootDemoApplication {
 		
 			// Task 2
 		System.out.println("modification added");
+
+		public void diplay(){
+			
 		
 	}
 
