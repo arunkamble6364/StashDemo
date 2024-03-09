@@ -11,6 +11,8 @@ public class SpringBootDemoApplication {
 		
 			// Task 2
 		System.out.println("modification added");
+
+		int a=10;
 		
 	}
 
